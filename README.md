@@ -1,4 +1,4 @@
-## Hi there 👋
+## vidhatri-pujar
 
 <!--
 **vidhatri-pujar/vidhatri-pujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
